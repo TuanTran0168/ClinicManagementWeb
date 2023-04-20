@@ -1,2 +1,2 @@
 # PhongMachMix
-Má
+Bài tập lớn môn Công nghệ phần mềm (Python Flask)
